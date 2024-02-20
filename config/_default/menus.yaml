@@ -1,0 +1,13 @@
+leftnav:
+- identifier: 6e9dcaad-0d21-4c9f-b40b-2d776c557aa8
+  name: 'Episodes '
+  pageRef: /video_galleries/video-lectures
+  weight: 10
+- identifier: 6df760cb-2e83-4473-bff8-2207e256f5f5
+  name: Related Resources
+  pageRef: /pages/related-resources
+  weight: 20
+- identifier: 605d8e1e-2b38-47f3-a38e-600fa6cf0fda
+  name: Credits
+  pageRef: /pages/credits
+  weight: 30
