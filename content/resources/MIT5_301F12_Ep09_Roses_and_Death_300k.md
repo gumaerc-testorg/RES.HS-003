@@ -51,4 +51,4 @@ video_metadata:
 ---
 In Episode 9, the students work in teams to synthesize brand new antibiotics, and Dan and Hansol make a big mistake.
 
-You can also view this video on [TechTV](http://techtv.mit.edu/collections/mitocw:2894/videos/21448-episode-9-roses-and-death-mit-chemlab-boot-camp).
+You can also view this video on {{% resource_link "c1c9f487-dbe7-402a-a6f8-b80dde65ed8e" "TechTV" %}}.

@@ -54,4 +54,4 @@ video_metadata:
 ---
 Dr. John Dolhun declares a winner in the crystal growing competition. But another student disagrees and issues a challenge!
 
-You can also view this video on [TechTV](http://techtv.mit.edu/videos/21327-episode-6-crystal-cloudy-mit-chemlab-boot-camp).
+You can also view this video on {{% resource_link "6e274639-c835-4b69-a2f3-3d56c2e7ab30" "TechTV" %}}.
