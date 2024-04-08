@@ -53,4 +53,4 @@ video_metadata:
 ---
 The students test their antibiotics on *E. Coli* bacteria. Even though Jason and Julie are working together, they don’t seem to have forgotten their battle over the biggest crystal.
 
-You can also view this video on [TechTV](http://techtv.mit.edu/collections/mitocw:2894/videos/21449-episode-10-the-killing-curve-mit-chemlab-boot-camp).
+You can also view this video on {{% resource_link "4adb3ab7-ec19-475e-9364-9ddcbfd1ddea" "TechTV" %}}.
