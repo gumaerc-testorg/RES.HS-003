@@ -40,6 +40,6 @@ video_metadata:
 ---
 ChemLab Boot Camp follows 14 MIT freshmen as they face the challenges of learning chemistry the MIT way.
 
-You can also view this video on [TechTV](http://techtv.mit.edu/collections/mitocw:2894/videos/20837-hd-trailer).
+You can also view this video on {{% resource_link "1256ec67-e409-41ae-ad2a-2cc464161b43" "TechTV" %}}.
 
-*Music: "Arkasia-New World Order (23 Remix)." Performed and recorded by* [*23*](http://www.soundcloud.com/23e)*. Used with permission.*
+*Music: "Arkasia-New World Order (23 Remix)." Performed and recorded by* {{% resource_link "5a3a760d-51ba-4fd5-9f54-b99bf198b680" "*23*" %}}*. Used with permission.*

@@ -51,4 +51,4 @@ video_metadata:
 ---
 Ever wonder if MIT students have love lives?
 
-You can also view this video on [TechTV](http://techtv.mit.edu/collections/mitocw:2894/videos/21446-bonus-video-3-it-s-complicated-mit-chemlab-boot-camp).
+You can also view this video on {{% resource_link "66231bba-0bd5-4c79-8010-32b9470078b8" "TechTV" %}}.
