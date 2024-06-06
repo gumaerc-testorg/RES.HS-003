@@ -52,4 +52,4 @@ video_metadata:
 ---
 MIT professors, grad students, and undergrads share their laboratory horror stories, and Lina learns from their mistakes.
 
-You can also view this video on {{% resource_link "0aa8907d-0f40-440a-baea-91723c1bc64e" "TechTV" %}}.
+You can also view this video on [TechTV](http://techtv.mit.edu/collections/mitocw:2894/videos/21237-bonus-video-1-war-stories-mit-chemlab-boot-camp).

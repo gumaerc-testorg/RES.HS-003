@@ -51,4 +51,4 @@ video_metadata:
 ---
 Anthony, Lina, Ethan, Emily, and the others are introduced to the lab. And they soon learn that 5.301 may be harder than it seemed...
 
-You can also view this video on {{% resource_link "64ddf7a3-da94-4dd2-9c16-f6536559bbe1" "TechTV" %}}.
+You can also view this video on [TechTV](http://techtv.mit.edu/collections/mitocw:2894/videos/20839-episode-2-overwhelmed-chemlab-boot-camp).

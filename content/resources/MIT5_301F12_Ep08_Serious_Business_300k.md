@@ -41,4 +41,4 @@ video_metadata:
 ---
 It’s time for the public speaking part of the course, and this has half the class tied up in knots.
 
-You can also view this video on {{% resource_link "ea6f2134-011b-41bb-8f70-3770f2a4d890" "TechTV" %}}.
+You can also view this video on [TechTV](http://techtv.mit.edu/collections/mitocw:2894/videos/21447-episode-8-serious-business-mit-chemlab-boot-camp).
