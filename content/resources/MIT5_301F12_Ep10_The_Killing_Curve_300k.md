@@ -16,7 +16,7 @@ resourcetype: Video
 title: 'Episode 10: The Killing Curve'
 uid: a351c52b-700e-41f6-b30b-86fff7ebaf0f
 video_files:
-  archive_url: https://ia902602.us.archive.org/0/items/MIT5.301F12/MIT5_301F12_Ep10_The_Killing_Curve_300k.mp4
+  archive_url: https://archive.org/download/MIT5.301F12/MIT5_301F12_Ep10_The_Killing_Curve_300k.mp4
   video_captions_file: /courses/res-hs-003-chemlab-boot-camp/_fJZbeVeBxg_captions.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/_fJZbeVeBxg/default.jpg
   video_transcript_file: /courses/res-hs-003-chemlab-boot-camp/_fJZbeVeBxg_transcript.pdf

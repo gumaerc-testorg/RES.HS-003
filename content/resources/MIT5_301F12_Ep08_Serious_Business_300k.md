@@ -16,7 +16,7 @@ resourcetype: Video
 title: 'Episode 8: Serious Business'
 uid: ea3a1fdb-ecb8-4c7b-acfe-f5e7a2c5c1dd
 video_files:
-  archive_url: https://ia902602.us.archive.org/0/items/MIT5.301F12/MIT5_301F12_Ep08_Serious_Business_300k.mp4
+  archive_url: https://archive.org/download/MIT5.301F12/MIT5_301F12_Ep08_Serious_Business_300k.mp4
   video_captions_file: /courses/res-hs-003-chemlab-boot-camp/t9zBeCrLYE4_captions.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/t9zBeCrLYE4/default.jpg
   video_transcript_file: /courses/res-hs-003-chemlab-boot-camp/t9zBeCrLYE4_transcript.pdf

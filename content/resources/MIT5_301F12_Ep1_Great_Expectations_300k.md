@@ -16,7 +16,7 @@ resourcetype: Video
 title: 'Episode 1: Great Expectations'
 uid: 2e44d10e-ed9f-4c91-a411-60b7e49e24f3
 video_files:
-  archive_url: https://ia802602.us.archive.org/0/items/MIT5.301F12/MIT5_301F12_Ep1_Great_Expectations_300k.mp4
+  archive_url: https://archive.org/download/MIT5.301F12/MIT5_301F12_Ep1_Great_Expectations_300k.mp4
   video_captions_file: /courses/res-hs-003-chemlab-boot-camp/0h8ZTSdgnuA_captions.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/0h8ZTSdgnuA/default.jpg
   video_transcript_file: /courses/res-hs-003-chemlab-boot-camp/0h8ZTSdgnuA_transcript.pdf

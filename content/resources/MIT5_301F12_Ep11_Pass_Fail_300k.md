@@ -16,7 +16,7 @@ resourcetype: Video
 title: 'Episode 11: Pass/Fail'
 uid: 64cb05e7-d487-4fa4-bd00-5ed205491b1d
 video_files:
-  archive_url: https://ia802602.us.archive.org/0/items/MIT5.301F12/MIT5_301F12_Ep11_Pass_Fail_300k.mp4
+  archive_url: https://archive.org/download/MIT5.301F12/MIT5_301F12_Ep11_Pass_Fail_300k.mp4
   video_captions_file: /courses/res-hs-003-chemlab-boot-camp/4VvpqIVwsuc_captions.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/4VvpqIVwsuc/default.jpg
   video_transcript_file: /courses/res-hs-003-chemlab-boot-camp/4VvpqIVwsuc_transcript.pdf

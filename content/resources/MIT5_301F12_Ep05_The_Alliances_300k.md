@@ -16,7 +16,7 @@ resourcetype: Video
 title: 'Episode 5: The Alliances'
 uid: 2ab398ca-40dd-43d6-9712-57f43d026c6d
 video_files:
-  archive_url: https://ia802602.us.archive.org/0/items/MIT5.301F12/MIT5_301F12_Ep05_The_Alliances_300k.mp4
+  archive_url: https://archive.org/download/MIT5.301F12/MIT5_301F12_Ep05_The_Alliances_300k.mp4
   video_captions_file: /courses/res-hs-003-chemlab-boot-camp/IbIqu6wAuQE_captions.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/IbIqu6wAuQE/default.jpg
   video_transcript_file: /courses/res-hs-003-chemlab-boot-camp/IbIqu6wAuQE_transcript.pdf

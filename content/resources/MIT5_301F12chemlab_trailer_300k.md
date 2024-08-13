@@ -16,7 +16,7 @@ resourcetype: Video
 title: ChemLab Boot Camp Trailer
 uid: 7fde9a24-8cc3-4100-acfc-2cf88f997292
 video_files:
-  archive_url: https://ia902602.us.archive.org/0/items/MIT5.301F12/MIT5_301F12chemlab_trailer_300k.mp4
+  archive_url: https://archive.org/download/MIT5.301F12/MIT5_301F12chemlab_trailer_300k.mp4
   video_captions_file: /courses/res-hs-003-chemlab-boot-camp/J0bAFdMzBbs_captions.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/J0bAFdMzBbs/default.jpg
   video_transcript_file: /courses/res-hs-003-chemlab-boot-camp/J0bAFdMzBbs_transcript.pdf
