@@ -16,7 +16,7 @@ resourcetype: Video
 title: 'Episode 7: Chinese Wedding'
 uid: 3a11fcee-4c2f-46c6-b0e2-d2ce09da2ba4
 video_files:
-  archive_url: https://ia802602.us.archive.org/0/items/MIT5.301F12/MIT5_301F12_Ep07_Chinese_Wedding_300k.mp4
+  archive_url: https://archive.org/download/MIT5.301F12/MIT5_301F12_Ep07_Chinese_Wedding_300k.mp4
   video_captions_file: /courses/res-hs-003-chemlab-boot-camp/VHnwjl4rYX8_captions.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/VHnwjl4rYX8/default.jpg
   video_transcript_file: /courses/res-hs-003-chemlab-boot-camp/VHnwjl4rYX8_transcript.pdf

@@ -16,7 +16,7 @@ resourcetype: Video
 title: 'Episode 3: Rotovap Mishap'
 uid: 531135fd-e82a-4aef-9377-a7da63d8a512
 video_files:
-  archive_url: https://ia802602.us.archive.org/0/items/MIT5.301F12/MIT5_301F12_Ep3_Rotovap_Mishap_300k.mp4
+  archive_url: https://archive.org/download/MIT5.301F12/MIT5_301F12_Ep3_Rotovap_Mishap_300k.mp4
   video_captions_file: /courses/res-hs-003-chemlab-boot-camp/HPh3LjDP_I4_captions.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/HPh3LjDP_I4/default.jpg
   video_transcript_file: /courses/res-hs-003-chemlab-boot-camp/HPh3LjDP_I4_transcript.pdf

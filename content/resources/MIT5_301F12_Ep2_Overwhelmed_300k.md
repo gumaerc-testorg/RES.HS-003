@@ -16,7 +16,7 @@ resourcetype: Video
 title: 'Episode 2: Overwhelmed'
 uid: 51196132-5373-43ac-bb0d-5c31bbadb79a
 video_files:
-  archive_url: https://ia802602.us.archive.org/0/items/MIT5.301F12/MIT5_301F12_Ep2_Overwhelmed_300k.mp4
+  archive_url: https://archive.org/download/MIT5.301F12/MIT5_301F12_Ep2_Overwhelmed_300k.mp4
   video_captions_file: /courses/res-hs-003-chemlab-boot-camp/843TkmUy0Yw_captions.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/843TkmUy0Yw/default.jpg
   video_transcript_file: /courses/res-hs-003-chemlab-boot-camp/843TkmUy0Yw_transcript.pdf

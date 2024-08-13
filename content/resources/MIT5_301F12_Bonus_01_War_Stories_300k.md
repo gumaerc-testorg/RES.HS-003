@@ -16,7 +16,7 @@ resourcetype: Video
 title: 'Bonus Video 1: War Stories'
 uid: d03b0a1e-e953-40e2-b840-823e484c2d87
 video_files:
-  archive_url: https://ia802602.us.archive.org/0/items/MIT5.301F12/MIT5_301F12_Bonus_01_War_Stories_300k.mp4
+  archive_url: https://archive.org/download/MIT5.301F12/MIT5_301F12_Bonus_01_War_Stories_300k.mp4
   video_captions_file: /courses/res-hs-003-chemlab-boot-camp/T8Ydn1eglm8_captions.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/T8Ydn1eglm8/default.jpg
   video_transcript_file: /courses/res-hs-003-chemlab-boot-camp/T8Ydn1eglm8_transcript.pdf

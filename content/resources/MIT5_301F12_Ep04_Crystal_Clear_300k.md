@@ -16,7 +16,7 @@ resourcetype: Video
 title: 'Episode 4: Crystal Clear'
 uid: dadaf764-0f24-4446-83de-cbb253f1f92d
 video_files:
-  archive_url: https://ia902602.us.archive.org/0/items/MIT5.301F12/MIT5_301F12_Ep04_Crystal_Clear_300k.mp4
+  archive_url: https://archive.org/download/MIT5.301F12/MIT5_301F12_Ep04_Crystal_Clear_300k.mp4
   video_captions_file: /courses/res-hs-003-chemlab-boot-camp/JgMXrmpq1vg_captions.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/JgMXrmpq1vg/default.jpg
   video_transcript_file: /courses/res-hs-003-chemlab-boot-camp/JgMXrmpq1vg_transcript.pdf

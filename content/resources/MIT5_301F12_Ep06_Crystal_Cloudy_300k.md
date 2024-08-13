@@ -16,7 +16,7 @@ resourcetype: Video
 title: 'Episode 6: Crystal Cloudy'
 uid: 6925ef18-7114-4173-897d-e09c114216e5
 video_files:
-  archive_url: https://ia902602.us.archive.org/0/items/MIT5.301F12/MIT5_301F12_Ep06_Crystal_Cloudy_300k.mp4
+  archive_url: https://archive.org/download/MIT5.301F12/MIT5_301F12_Ep06_Crystal_Cloudy_300k.mp4
   video_captions_file: /courses/res-hs-003-chemlab-boot-camp/tYkr4jMSOFg_captions.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/tYkr4jMSOFg/default.jpg
   video_transcript_file: /courses/res-hs-003-chemlab-boot-camp/tYkr4jMSOFg_transcript.pdf

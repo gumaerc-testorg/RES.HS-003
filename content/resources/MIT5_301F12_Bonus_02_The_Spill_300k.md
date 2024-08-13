@@ -16,7 +16,7 @@ resourcetype: Video
 title: 'Bonus Video 2: The Spill'
 uid: fbd981ab-e489-4560-9a50-45b6809ec6c4
 video_files:
-  archive_url: https://ia802602.us.archive.org/0/items/MIT5.301F12/MIT5_301F12_Bonus_02_The_Spill_300k.mp4
+  archive_url: https://archive.org/download/MIT5.301F12/MIT5_301F12_Bonus_02_The_Spill_300k.mp4
   video_captions_file: /courses/res-hs-003-chemlab-boot-camp/nAtEwpgQI_E_captions.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/nAtEwpgQI_E/default.jpg
   video_transcript_file: /courses/res-hs-003-chemlab-boot-camp/nAtEwpgQI_E_transcript.pdf
