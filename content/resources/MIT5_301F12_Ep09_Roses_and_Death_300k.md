@@ -16,7 +16,7 @@ resourcetype: Video
 title: 'Episode 9: Roses and Death'
 uid: fae46604-f19b-4239-9cae-39cbec6ac4f6
 video_files:
-  archive_url: https://ia902602.us.archive.org/0/items/MIT5.301F12/MIT5_301F12_Ep09_Roses_and_Death_300k.mp4
+  archive_url: https://archive.org/download/MIT5.301F12/MIT5_301F12_Ep09_Roses_and_Death_300k.mp4
   video_captions_file: /courses/res-hs-003-chemlab-boot-camp/zIEDzaF9gKw_captions.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/zIEDzaF9gKw/default.jpg
   video_transcript_file: /courses/res-hs-003-chemlab-boot-camp/zIEDzaF9gKw_transcript.pdf

@@ -16,7 +16,7 @@ resourcetype: Video
 title: 'Bonus Video 4: Phil-osophy'
 uid: 940caa55-a885-4646-8ca1-7588f7fbfdca
 video_files:
-  archive_url: https://ia902602.us.archive.org/0/items/MIT5.301F12/MIT5_301F12_Bonus_04_Philosophy_300k.mp4
+  archive_url: https://archive.org/download/MIT5.301F12/MIT5_301F12_Bonus_04_Philosophy_300k.mp4
   video_captions_file: /courses/res-hs-003-chemlab-boot-camp/nhGA_iLfKA8_captions.webvtt
   video_thumbnail_file: https://img.youtube.com/vi/nhGA_iLfKA8/default.jpg
   video_transcript_file: /courses/res-hs-003-chemlab-boot-camp/nhGA_iLfKA8_transcript.pdf
