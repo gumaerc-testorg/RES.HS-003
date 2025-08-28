@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: null
+file: /ol-ocw-studio-app/courses/res-hs-003-chemlab-boot-camp/JV12FObiQ38_transcript.pdf
 file_size: 22313
 file_type: application/pdf
 learning_resource_types: []

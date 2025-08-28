@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: null
+file: /ol-ocw-studio-app/courses/res-hs-003-chemlab-boot-camp/843TkmUy0Yw_transcript.pdf
 file_size: 27364
 file_type: application/pdf
 learning_resource_types: []
