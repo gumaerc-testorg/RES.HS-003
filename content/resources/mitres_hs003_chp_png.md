@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/chemlab-boot-camp/mitres_hs003_chp.png
+file: /ol-ocw-studio-app/courses/res-hs-003-chemlab-boot-camp/mitres_hs003_chp.png
 file_size: 127910
 file_type: image/png
 image_metadata:
