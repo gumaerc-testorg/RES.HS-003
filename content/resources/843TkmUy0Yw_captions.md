@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: null
+file: /ol-ocw-studio-app/courses/res-hs-003-chemlab-boot-camp/843TkmUy0Yw_captions.webvtt
 file_size: 9591
 file_type: application/x-subrip
 learning_resource_types: []

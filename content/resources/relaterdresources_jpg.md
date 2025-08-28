@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: courses/chemlab-boot-camp/relaterdresources.jpg
+file: /ol-ocw-studio-app/courses/res-hs-003-chemlab-boot-camp/relaterdresources.jpg
 file_size: 40812
 file_type: image/jpeg
 image_metadata:

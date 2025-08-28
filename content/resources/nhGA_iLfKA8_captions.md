@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: null
+file: /ol-ocw-studio-app/courses/res-hs-003-chemlab-boot-camp/nhGA_iLfKA8_captions.webvtt
 file_size: 3875
 file_type: application/x-subrip
 learning_resource_types: []

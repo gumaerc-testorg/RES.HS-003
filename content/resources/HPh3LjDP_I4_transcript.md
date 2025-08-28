@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: null
+file: /ol-ocw-studio-app/courses/res-hs-003-chemlab-boot-camp/HPh3LjDP_I4_transcript.pdf
 file_size: 25934
 file_type: application/pdf
 learning_resource_types: []
