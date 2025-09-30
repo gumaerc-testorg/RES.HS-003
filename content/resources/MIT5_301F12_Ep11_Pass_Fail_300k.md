@@ -52,4 +52,4 @@ video_metadata:
 ---
 5.301 wraps up. Find out who makes the cut, and what the students are up to three months later.  
   
-You can also view this video on [TechTV](https://techtv.mit.edu/videos/21450-episode-11-pass-fail-mit-chemlab-boot-camp).
+You can also view this video on {{% resource_link "08091350-dea8-465d-94cd-3f8d429c1617" "TechTV" %}}.
