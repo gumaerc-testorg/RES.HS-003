@@ -56,6 +56,6 @@ video_metadata:
 ---
 Meet Phil: MIT grad student, food lover, fitness enthusiast, literature buff, organic chemist by day... superhero by night.  
   
-You can also view this video on [TechTV](http://techtv.mit.edu/videos/21725-bonus-video-4-phil-osophy).
+You can also view this video on {{% resource_link "9a019417-a4c4-4f15-9ea4-6182dc95995b" "TechTV" %}}.
 
 *Music: "Let Me Back In." Performed and recorded by Negative Ghostrider. Used with permission.*
