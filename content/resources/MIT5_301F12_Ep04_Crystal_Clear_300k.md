@@ -39,4 +39,4 @@ video_metadata:
 ---
 The students learn how to recrystallize, a technique they need to master for next week’s crystal growing competition.
 
-You can also view this video on {{% resource_link "e5ec1b60-0256-4795-992f-90f304ef06ea" "TechTV" %}}.
+You can also view this video on [TechTV](http://techtv.mit.edu/collections/mitocw:2894/videos/21153-episode-4-crystal-clear-chemlab-boot-camp).

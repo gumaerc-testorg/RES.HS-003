@@ -51,4 +51,4 @@ video_metadata:
 ---
 Meet the MIT freshmen signed up for 5.301, a punishing chemistry lab class known as the “Boot Camp.” Those who pass are guaranteed a job in an MIT research lab.
 
-You can also view this video on {{% resource_link "fb69518b-6d2f-437b-89b0-062b28439864" "TechTV" %}}.
+You can also view this video on [TechTV](http://techtv.mit.edu/collections/mitocw:2894/videos/20906-episode-1-great-expectations-chemlab-boot-camp).
