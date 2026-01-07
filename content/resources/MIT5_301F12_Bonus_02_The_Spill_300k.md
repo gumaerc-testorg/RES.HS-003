@@ -51,4 +51,4 @@ video_metadata:
 ---
 One of the students spills half a bottle of urea on the laboratory floor and doesn’t confess. But Ike knows who did it . . .
 
-You can also view this video on {{% resource_link "0d0dafc9-8b47-4687-a791-ee83b4eba99b" "TechTV" %}}.
+You can also view this video on [TechTV](http://techtv.mit.edu/videos/21329-bonus-video-2-the-spill-mit-chemlab-boot-camp).

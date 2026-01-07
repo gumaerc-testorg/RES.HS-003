@@ -66,16 +66,16 @@ Katherine S.      
 Anu S.
 
 **Musicians**        
-{{% resource_link "4ec232e3-d6b9-4f19-8a2c-37c968734fde" "Helms" %}}        
+[Helms](https://helms.bandcamp.com/)        
 Reports        
-{{% resource_link "ccc96129-728b-4b3c-98f1-e0ef5e30a290" "Mellow Bravo" %}}        
+[Mellow Bravo](http://smallstone.bandcamp.com/album/s-t-mellow-bravo)        
 mR. id        
-{{% resource_link "151fc147-5825-44b9-bb19-c790ce856bed" "Battle House" %}}        
+[Battle House](http://battlehouse.bandcamp.com/)        
 Negative Ghostrider        
 Lady of Spain        
-{{% resource_link "09fa5122-e47b-43bc-8370-a813118ebe1a" "23" %}}        
-{{% resource_link "6bda0fa3-9441-49ba-8fdb-59f001c809aa" "Ho-Ag" %}}        
-{{% resource_link "286acb23-1e3d-4984-bc7c-6d1f9662a11f" "Model Citizens" %}}
+[23](http://soundcloud.com/23e)        
+[Ho-Ag](http://ho-ag.bandcamp.com/)        
+[Model Citizens](http://www.reverbnation.com/modelcitizenssalem)
 
 **Special Thanks**        
 Prof. John M. Essigmann        
