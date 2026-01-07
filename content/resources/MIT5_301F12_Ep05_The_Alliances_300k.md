@@ -53,4 +53,4 @@ video_metadata:
 ---
 The staff announces the crystal growing competition, the students set up their experiments, and alliances start to form. Also, Phil has a really weird dream involving the Kardashians.
 
-You can also view this video on {{% resource_link "c7c3e656-61c7-4f9b-b999-8ac05e882951" "TechTV" %}}.
+You can also view this video on [TechTV](http://techtv.mit.edu/collections/mitocw:2894/videos/21238-episode-5-the-alliances-mit-chemlab-boot-camp).

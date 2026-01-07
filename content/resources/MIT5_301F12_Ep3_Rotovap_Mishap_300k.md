@@ -53,4 +53,4 @@ video_metadata:
 ---
 Today is 5.301’s first real test. The students have to purify a contaminated sample using techniques they’ve never seen before . . . and that has Anthony worried.
 
-You can also view this video on {{% resource_link "1e5e5a8e-bfc5-4654-adfb-9ea6197a526b" "TechTV" %}}.
+You can also view this video on [TechTV](http://techtv.mit.edu/collections/mitocw:2894/videos/21254-episode-3-rotovap-mishap-chemlab-boot-camp).

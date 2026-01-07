@@ -52,4 +52,4 @@ video_metadata:
 ---
 The students have to learn the hardest technique yet, but it’s the TAs who go loopy. Result: awkward moments like only MIT can provide.
 
-You can also view this video on {{% resource_link "23809cc5-2494-41de-9df8-a2396b5706d1" "TechTV" %}}.
+You can also view this video on [TechTV](http://techtv.mit.edu/videos/21328-episode-7-chinese-wedding-mit-chemlab-boot-camp).

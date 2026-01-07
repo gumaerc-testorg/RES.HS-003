@@ -9,11 +9,11 @@ uid: 6df760cb-2e83-4473-bff8-2207e256f5f5
 
  
 
-{{% resource_link "35003e61-fa8f-45c8-87eb-34a16f1d6cbc" "The Making of ChemLab Boot Camp" %}}        
+[The Making of ChemLab Boot Camp](http://web.mit.edu/newsoffice/2012/behind-the-scenes-of-chemlab-boot-camp.html)        
 Go behind the scenes to learn more about how this innovative web series was made.
 
-{{% resource_link "649db200-9db8-4658-904e-a545b006f62d" "*5.301 Chemistry Laboratory Techniques*" %}}  
+[*5.301 Chemistry Laboratory Techniques*](https://ocw.mit.edu/courses/5-301-chemistry-laboratory-techniques-january-iap-2012/)  
 Explore the course materials for *5.301,* the same course the freshmen from ChemLab Boot Camp went through.
 
-{{% resource_link "8529161b-4117-4632-ad8a-487e8d3972f0" "*5.0001 Digital Lab Techniques Manual*" %}}  
+[*5.0001 Digital Lab Techniques Manual*](https://ocw.mit.edu/courses/res-5-0001-digital-lab-techniques-manual-spring-2007/)  
 This “manual” is a series of videos designed to help you prepare for a chemistry lab class. Each video demonstrates common laboratory techniques, such as titration, filtration, and column chromatography, among others.
